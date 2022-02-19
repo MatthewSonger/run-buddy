@@ -404,6 +404,7 @@ section {
 
   #contact-name, #contact-message {
     margin: 5px auto;
+    padding: 5px;
   }
 
   .contact-form input, .contact-form textarea {
